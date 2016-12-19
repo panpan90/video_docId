@@ -1,0 +1,72 @@
+2016-12-13  10:59:38 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  10:59:38 com.sohu.mrd.videoDocId.simhash.SimHasher main  5 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  10:59:38 com.sohu.mrd.videoDocId.simhash.SimHasher main  7 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  10:59:38 com.sohu.mrd.videoDocId.simhash.SimHasher main  7 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:13:33 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:13:33 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:13:33 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:13:33 com.sohu.mrd.videoDocId.simhash.SimHasher main  5 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:14:10 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:14:10 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:14:10 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:14:10 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:14:25 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:14:25 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:14:25 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:14:25 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:14:45 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:14:45 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:14:45 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 记过=11.598092559, 盼=11.739204307083542, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:14:45 com.sohu.mrd.videoDocId.simhash.SimHasher main  5 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111110110110111000000100110010000111000001100011100101011001
+2016-12-13  11:18:02 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:18:02 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:18:02 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:18:02 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:18:16 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:18:16 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:18:16 com.sohu.mrd.videoDocId.simhash.SimHasher main  5 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:18:16 com.sohu.mrd.videoDocId.simhash.SimHasher main  6 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:18:36 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:18:36 com.sohu.mrd.videoDocId.simhash.SimHasher main  2 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:18:36 com.sohu.mrd.videoDocId.simhash.SimHasher main  3 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 天安门=8.99540287354, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:18:36 com.sohu.mrd.videoDocId.simhash.SimHasher main  4 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111110110111110001100100110010000111100000100010100101011101
+2016-12-13  11:41:52 com.sohu.mrd.videoDocId.simhash.SimHasher main  0 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:41:52 com.sohu.mrd.videoDocId.simhash.SimHasher main  13 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111111110111110000100100110010000111100000100010000101011101
+2016-12-13  11:41:52 com.sohu.mrd.videoDocId.simhash.SimHasher main  15 
+[INFO](SimHasher.java 33) wordInfos {饭=11.739204307083542, 天安门=8.99540287354, 回家=6.19226698472, 妈妈=6.55531281156, 喊=11.739204307083542, 吃=11.739204307083542}
+2016-12-13  11:41:52 com.sohu.mrd.videoDocId.simhash.SimHasher main  16 
+[INFO](SimHasher.java 58) 生成的simhash为  1010111110110111110001100100110010000111100000100010100101011101

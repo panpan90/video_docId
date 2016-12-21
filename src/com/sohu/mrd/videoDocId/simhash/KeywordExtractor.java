@@ -128,5 +128,4 @@ public final class KeywordExtractor {
 			logger.error("IO错误：" + e.getMessage());
 		}
 	}
-
 }

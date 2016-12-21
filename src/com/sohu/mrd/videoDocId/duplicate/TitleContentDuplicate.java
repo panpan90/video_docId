@@ -55,7 +55,7 @@ public class TitleContentDuplicate{
 				keySb.append(i); //防止 三个条件相同，覆盖 已有的docId
 				treeMap.put(keySb.toString(), docId);
 			}
-		  //取得最相似的那个docId
+		    //取得最相似的那个docId
 			Entry<String, String>    treeEntry = treeMap.lastEntry();
 			String similary=treeEntry.getKey();
 			String docId = treeEntry.getValue();

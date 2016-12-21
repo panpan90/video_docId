@@ -63,7 +63,10 @@ public class GenerateDocIdService {
 				docId = newDocId;
 				return docId;
 			}else{
+				// url 索引库没有，而通过Jaccard 相似度 打成同一个 docId的，建立 url 索引，防止相同的url进来再次进行jaccard相似度计算
 				docId=contentFlag;
+				buildURLIndex(url, HBaseConstant.VIDEO_URL_INDEX_TABLE, docId);
+				LOG.info("通过content进行排重的 url "+url);
 				return docId;
 			}
 		}else{

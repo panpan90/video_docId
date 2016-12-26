@@ -8,7 +8,7 @@ import com.sohu.mrd.videoDocId.utils.FileKit;
 /**
  * @author Jin Guopan
    @creation 2016年12月21日
-   视频数据的处理类
+      视频数据的处理类
  */
 public class VideoConsumerFunction implements Function<byte[], Boolean> {
 	private static final Logger LOG = Logger.getLogger(VideoConsumerFunction.class);
